@@ -7,7 +7,7 @@ let current = seed;
 let texture;
 
 function setup() {
-  createCanvas(3200, 3200);
+  createCanvas(1600, 1600);
   pixelDensity(1);
   colorMode(HSB, 360, 100, 100, 100);
   angleMode(DEGREES);
