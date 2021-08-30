@@ -8,7 +8,7 @@
 
 ### wildmouse
 
-<img src="../assets/images/ww.png" width="200px">  
+<img src="../assets/images/wm.png" width="200px">  
 - [Twitter](https://twitter.com/wildmouse_)  
 `Development`
 
