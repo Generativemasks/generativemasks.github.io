@@ -12,6 +12,7 @@ theme:
 copyright: "Copyright © TART K.K. 2021"
 nav:
   - HOME: index.md
+  - TOOLS: tools.md
   - Artist: artist.md
   - Team: team.md
   - FAQ: faq.md
