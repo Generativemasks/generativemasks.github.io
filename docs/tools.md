@@ -42,6 +42,17 @@
 [https://openprocessing.org/sketch/1250451](https://openprocessing.org/sketch/1250451)  
 `takawo`
 
+## Twitter Header Generator
+
+Tiling of multiple masks is supported by entering IDs separated by commas in the field "Mask ID".
+ex 1330,1200,546  
+<video width="320" controls>
+
+  <source src="../assets/videos/twitter_header_generator.mp4" type="video/mp4">
+</video>
+[https://openprocessing.org/sketch/1253395](https://openprocessing.org/sketch/1253395)  
+`takawo`
+
 ## Mask on Snapchat
 
 [https://lens.snapchat.com/6b1f7e54751749328e608b9e6b386899](https://lens.snapchat.com/6b1f7e54751749328e608b9e6b386899)  
