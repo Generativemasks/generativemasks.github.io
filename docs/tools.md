@@ -2,7 +2,7 @@
 
 ## PFP Collaborator
 
-<video width="320" controls>
+<video width="100%" controls>
   <source src="../assets/videos/pfpcollab.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1250736](https://openprocessing.org/sketch/1250736)  
@@ -10,7 +10,7 @@
 
 ## Mask on the webcam
 
-<video width="320" controls>
+<video width="100%" controls>
   <source src="../assets/videos/webcam.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1248797](https://openprocessing.org/sketch/1248797)  
@@ -18,7 +18,7 @@
 
 ## Pattern Extractor
 
-<video width="320" controls>
+<video width="100%" controls>
   <source src="../assets/videos/patternextractor.mp4" type="video/mp4">
 </video>
 
@@ -27,7 +27,7 @@
 
 ## 3×3 Tile Generator
 
-<video width="320" controls>
+<video width="100%" controls>
   <source src="../assets/videos/tilegenerator.mp4" type="video/mp4">
 </video>
 
@@ -36,7 +36,7 @@
 
 ## Collaborator
 
-<video width="320" controls>
+<video width="100%" controls>
   <source src="../assets/videos/collaborator.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1250451](https://openprocessing.org/sketch/1250451)  
@@ -46,11 +46,17 @@
 
 Tiling of multiple masks is supported by entering IDs separated by commas in the field "Mask ID".
 ex 1330,1200,546  
-<video width="320" controls>
+<video width="100%" controls>
 
   <source src="../assets/videos/twitter_header_generator.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1253395](https://openprocessing.org/sketch/1253395)  
+`takawo`
+
+## Dither
+
+![Dither](./assets/images/dither.png)  
+[https://openprocessing.org/sketch/1225430](https://openprocessing.org/sketch/1225430)  
 `takawo`
 
 ## Mask on Snapchat
@@ -67,6 +73,21 @@ ex 1330,1200,546
 
 [https://dune.xyz/venture_capital/generativemasks](https://dune.xyz/venture_capital/generativemasks)  
 `venture_capital`
+
+## Mask size data
+
+[https://docs.google.com/spreadsheets/d/1QgezImKL7meoFK52JoqjtpS1OS0ivWycErB-OOzxF_o/edit#gid=1015296609](https://docs.google.com/spreadsheets/d/1QgezImKL7meoFK52JoqjtpS1OS0ivWycErB-OOzxF_o/edit#gid=1015296609)  
+`manawisdom`
+
+## Pixelized @generativemasks generator
+
+[https://openprocessing.org/sketch/1273176](https://openprocessing.org/sketch/1273176)  
+`wildmouse`
+
+## Opensea sales bot
+
+[https://twitter.com/salesbotgm/](https://twitter.com/salesbotgm/)  
+`?`
 
 ## Original Script
 
