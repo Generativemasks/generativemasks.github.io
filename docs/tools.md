@@ -116,5 +116,3 @@ Creator: [`wildmouse`](https://twitter.com/wildmouse_)
 ## Original Script
 
 [https://github.com/Generativemasks/generativemasks.github.io](https://github.com/Generativemasks/generativemasks.github.io)
-
-\_
