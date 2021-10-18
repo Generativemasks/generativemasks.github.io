@@ -1,10 +1,20 @@
 # Community Tools
 
+## Generativemasks to Your Taste
+
+![deconbatch](./assets/images/toyourtaste.png)  
+[https://openprocessing.org/sketch/1299156](https://openprocessing.org/sketch/1299156)
+
+For more information about the tool, check here.  
+[https://www.deconbatch.com/2021/10/garg.html](https://www.deconbatch.com/2021/10/garg.html)
+
+Creator: [`deconbatch`](https://twitter.com/deconbatch)
+
 ## Twitter Header Generator 1x1
 
 ![takawo](./assets/images/twheader.png)  
 [https://openprocessing.org/sketch/1300131](https://openprocessing.org/sketch/1300131)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## PFP Collaborator
 
@@ -12,7 +22,7 @@
   <source src="../assets/videos/pfpcollab.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1250736](https://openprocessing.org/sketch/1250736)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## Mask on the webcam
 
@@ -20,7 +30,7 @@
   <source src="../assets/videos/webcam.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1248797](https://openprocessing.org/sketch/1248797)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## Pattern Extractor
 
@@ -29,7 +39,7 @@
 </video>
 
 [https://openprocessing.org/sketch/1250271](https://openprocessing.org/sketch/1250271)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## 3×3 Tile Generator
 
@@ -38,13 +48,13 @@
 </video>
 
 [https://openprocessing.org/sketch/1249649](https://openprocessing.org/sketch/1249649)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## 4×4 Tile Generator
 
 ![takawo](./assets/images/4x4.png)  
 [https://openprocessing.org/sketch/1275637](https://openprocessing.org/sketch/1275637)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## Collaborator
 
@@ -52,7 +62,7 @@
   <source src="../assets/videos/collaborator.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1250451](https://openprocessing.org/sketch/1250451)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## Twitter Header Generator
 
@@ -63,13 +73,13 @@ ex 1330,1200,546
   <source src="../assets/videos/twitter_header_generator.mp4" type="video/mp4">
 </video>
 [https://openprocessing.org/sketch/1253395](https://openprocessing.org/sketch/1253395)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## Dither
 
 ![Dither](./assets/images/dither.png)  
 [https://openprocessing.org/sketch/1225430](https://openprocessing.org/sketch/1225430)  
-`takawo`
+Creator: [`takawo`](https://twitter.com/takawo)
 
 ## Mask on Snapchat
 
@@ -78,8 +88,9 @@ ex 1330,1200,546
 
 ## mask modder
 
+![junosz](./assets/images/maskmoder.png)  
 [https://junosuarez.github.io/maskmod/](https://junosuarez.github.io/maskmod/)  
-`junosz.eth`
+Creator: [`junosz.eth`](https://twitter.com/junosz)
 
 ## Analytics Dashboard
 
@@ -93,8 +104,9 @@ ex 1330,1200,546
 
 ## Pixelized @generativemasks generator
 
+![wildmouse](./assets/images/dot_mask.png)
 [https://openprocessing.org/sketch/1273176](https://openprocessing.org/sketch/1273176)  
-`wildmouse`
+Creator: [`wildmouse`](https://twitter.com/wildmouse_)
 
 ## Opensea sales bot
 
@@ -104,3 +116,5 @@ ex 1330,1200,546
 ## Original Script
 
 [https://github.com/Generativemasks/generativemasks.github.io](https://github.com/Generativemasks/generativemasks.github.io)
+
+\_
