@@ -1,8 +1,13 @@
 # Community Tools
 
-## Generativemasks to Your Taste
+## Garg
 
-![deconbatch](./assets/images/toyourtaste.png)  
+'Garg' stands for 'Generates A Resembling Generativemasks'.  
+Garg is a JavaScript module. It generates a mask and it returns the result as 'p5.Graphics'. You can designate the mask size and the color palette to draw!
+
+![deconbatch](./assets/images/toyourtaste.png)
+
+**Example application**  
 [https://openprocessing.org/sketch/1299156](https://openprocessing.org/sketch/1299156)
 
 For more information about the tool, check here.  
