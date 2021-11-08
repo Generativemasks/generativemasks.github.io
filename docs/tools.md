@@ -5,15 +5,20 @@
 'Garg' stands for 'Generates A Resembling Generativemasks'.  
 Garg is a JavaScript module. It generates a mask and it returns the result as 'p5.Graphics'. You can designate the mask size and the color palette to draw!
 
-![deconbatch](./assets/images/toyourtaste.png)
-
-**Example application**  
-[https://openprocessing.org/sketch/1299156](https://openprocessing.org/sketch/1299156)
-
 For more information about the tool, check here.  
 [https://www.deconbatch.com/2021/10/garg.html](https://www.deconbatch.com/2021/10/garg.html)
 
 Creator: [`deconbatch`](https://twitter.com/deconbatch)
+
+**Example application**  
+![deconbatch](./assets/images/toyourtaste.png)  
+[https://openprocessing.org/sketch/1299156](https://openprocessing.org/sketch/1299156)
+
+![deconbatch](./assets/images/abstractor.png)  
+[https://openprocessing.org/sketch/1315437](https://openprocessing.org/sketch/1315437)
+
+![deconbatch](./assets/images/meetsp5.png)  
+[https://openprocessing.org/sketch/1320106](https://openprocessing.org/sketch/1320106)
 
 ## NxN Tile Generator(High-Res ver.2)
 
